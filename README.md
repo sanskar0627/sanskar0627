@@ -67,11 +67,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sanskar0627/sanskar0627/main/github-metrics.svg" alt="Metrics" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sanskar0627&theme=onedark&hide_border=true" alt="GitHub Streak" /></a>
-</p>
+    
