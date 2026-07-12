@@ -68,14 +68,8 @@
 
 ---
 
-### 📊 GitHub Stats:
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanskar0627&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanskar0627&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/sanskar0627/sanskar0627/main/github-metrics.svg" alt="Metrics" width="100%" />
 </p>
 
 <p align="center">
